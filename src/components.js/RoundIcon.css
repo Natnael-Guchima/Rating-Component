@@ -1,0 +1,19 @@
+.round-btn {
+  background-color: hsl(213, 19%, 28%);
+  border-radius: 50%;
+  border: 0;
+  color: hsl(217, 12%, 63%);
+  font-size: 15px;
+  height: 30px;
+  width: 30px;
+}
+
+.round-btn:hover {
+  background-color: hsl(25, 97%, 53%);
+  color: white;
+}
+
+.active {
+  background-color: hsl(213, 19%, 60%);
+  color: white;
+}
