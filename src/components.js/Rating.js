@@ -14,7 +14,8 @@ const Rating = ({ setRated }) => {
 
   return (
     <div className="rating">
-      <h2 className="header">How did we do?</h2>
+      <p className="rating-header">How did we do?</p>
+
       <p className="supporting-copy">
         It is a long established fact that a reader will be distracted by the
         readable content of a page when looking at its layout.
